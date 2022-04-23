@@ -10,4 +10,3 @@
 
 <p><b>How to reach me</b></p>
 If you require any further information / assistance, Feel free to reach me [here](https://lanre-akintayo.vercel.app/)
-
