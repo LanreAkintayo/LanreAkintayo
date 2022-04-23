@@ -8,5 +8,5 @@
 - 👉 I like to play table tennis...
 - 💆 I am always eager to learn more and work towards becoming exceptionally skilled in the space ...
 
-<p><b>How to reach me</b></p>
+## **How to reach me** <br/>
 If you require any further information / assistance, Feel free to reach me [here](https://lanre-akintayo.vercel.app/)
